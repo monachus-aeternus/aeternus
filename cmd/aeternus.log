@@ -1,0 +1,12 @@
+[0;32m[INFO]  [0m[0;34m2022/06/08 00:08:55 [0m
+    ___     ______  ______    ______    ____     _   __   __  __   _____
+   /   |   / ____/ /_  __/   / ____/   / __ \   / | / /  / / / /  / ___/
+  / /| |  / __/     / /     / __/     / /_/ /  /  |/ /  / / / /   \__ \ 
+ / ___ | / /___    / /     / /___    / _, _/  / /|  /  / /_/ /   ___/ / 
+/_/  |_|/_____/   /_/     /_____/   /_/ |_|  /_/ |_/   \____/   /____/  
+                                                                        
+[0;32m[INFO]  [0m[0;34m2022/06/08 00:08:55 [0mServer is running at %d port.
+ 9096
+[0;32m[INFO]  [0m[0;34m2022/06/08 00:08:55 [0mPoint your OAuth client Auth endpoint to %s:%d%s http://localhost 9096 /oauth/authorize
+[0;32m[INFO]  [0m[0;34m2022/06/08 00:08:55 [0mPoint your OAuth client Token endpoint to %s:%d%s http://localhost 9096 /oauth/token
+[0;32m[INFO]  [0m[0;34m2022/06/08 00:09:46 [0mResponse Error: invalid_request
